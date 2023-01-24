@@ -1,7 +1,7 @@
 {
-  "name": "mermaid-filter",
-  "version": "1.4.7",
-  "description": "Pandoc filter for mermaid",
+  "name": "@marcelmaatkamp/mermaid-filter",
+  "version": "1.4.11",
+  "description": "Pandoc filter for mermaid (including mermaid-v9)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "pandoc",
     "mermaid"
   ],
-  "repository": "https://github.com/raghur/mermaid-filter",
+  "repository": "https://github.com/marcelmaatkamp/mermaid-filter-tmp-v9",
   "author": "Raghu Rajagopalan",
   "license": "BSD-2-Clause",
   "preferGlobal": true,
@@ -24,6 +24,7 @@
     "minimist": ">=0.2.1",
     "pandoc-filter": "^0.1.3",
     "sanitize-filename": "1.6.1",
-    "tmp": "0.0.28"
+    "tmp": "0.0.28",
+    "winston": "^3.8.2"
   }
 }
