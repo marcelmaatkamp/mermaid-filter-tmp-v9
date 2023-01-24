@@ -1,7 +1,8 @@
 Sequence and Graph diagrams in your markdown files!
 =========================
-marcelmaatkamp: This is a temporary version untill `raghur/mermaid-filter` publishes a new version which includes mermaid-v9
-=========================
+ marcelmaatkamp: 
+  This is a temporary version untill `raghur/mermaid-filter` publishes a new version which includes mermaid-v9
+-------------------------
 
 `mermaid-filter` is a pandoc filter that adds support for [mermaid](http://knsv.github.io/mermaid/) syntax diagrams in markdown.
 
